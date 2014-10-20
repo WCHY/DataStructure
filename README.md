@@ -1,4 +1,4 @@
-DataStructure
+Data Structure
 =============
 
 There are some Data Structure header file of C++.
